@@ -1,4 +1,4 @@
-##Jogo de Xadrez
+## Jogo de Xadrez
 
 ## Alunos
 O projeto foi realizado pela aluna Beatriz Meloni Meneghetti e pelo aluno Rafael Elias Corrêa, com os respectivos RA's: 18079053, 18726497.
